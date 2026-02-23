@@ -1,5 +1,12 @@
 # dep-license-scanner
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/dep-license-scanner/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/dep-license-scanner/actions)
+![License](https://img.shields.io/github/license/yksanjo/dep-license-scanner)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/dep-license-scanner)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/dep-license-scanner)
+
 ## Detailed Description
 
 dep-license-scanner is maintained as an industry-grade software project with production-ready engineering practices.  
